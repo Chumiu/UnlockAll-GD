@@ -1,0 +1,17 @@
+{
+	"geode": "4.8.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "chumiiu.unlock_all",
+	"name": "Unlock All",
+	"version": "v1.0.0",
+	"developer": "Chumiiu",
+	"description": "Unlocks all icons, colors and items",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
